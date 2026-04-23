@@ -59,7 +59,7 @@ You can connect with me via:
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <br>
   <a href="https://www.linkedin.com/in/abhijeet-kumar-singh-957117269/" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="100" height="100"> LinkedIn
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" alt="linkedin" width="100" height="100"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/Abhijeet0021" rel="nofollow noreferrer">
     <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="github" width="100" height="100"> Github
