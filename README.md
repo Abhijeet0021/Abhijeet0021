@@ -14,7 +14,7 @@ I am a 4th year student pursuing a dual degree in Computer Science and Engineeri
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="100" height="100">LeetCode
   </a> &nbsp; 
   <a href="https://www.hackerrank.com/profile/singhabhijeet002" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="100" height="100">HackerRank
+    <img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank" alt="HackerRank" width="100" height="100">HackerRank
   </a> &nbsp;
   <a href="https://codeforces.com/profile/singhabhijeet0021" rel="nofollow noreferrer">
     <img src="https://icons8.com/icon/jldAN67IAsrW/codeforces" alt="Codeforces" width="200" height="100">codeforces
