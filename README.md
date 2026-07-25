@@ -1,84 +1,100 @@
-# Hi there! 👋 I'm [ABHIJEET KUMAR] @Abhijeet0021
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar Singh</h1>
+<h3 align="center">4th-year Dual-Degree CSE Student @ JIIT Noida · Competitive Programmer · Web Developer</h3>
 
-Welcome to my GitHub profile! I'm excited to share my journey in the world of coding and development. 
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Web+Developer;Lifelong+Learner;Python+%7C+C%2B%2B+%7C+JavaScript" alt="Typing SVG" />
+</p>
 
-### About Me
-
-I am a 4th year student pursuing a dual degree in Computer Science and Engineering at **JIIT Noida**. With a passion for technology, I have honed my skills in various programming languages including **Python**, **C++**, and **C**, as well as web development languages. Beyond academics, I thrive on the challenges of **competitive programming**, boasting strong profiles on platforms like **LeetCode**, **HackerRank**, and **CodeChef**. I am dedicated to continuous learning and growth in the ever-evolving landscape of technology, poised to make meaningful contributions in the field of **computer science and engineering**. 
-
-<p>
-  <a href="https://leetcode.com/u/Abhijeetkumarsingh/" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="100" height="100">LeetCode
-  </a> &nbsp; 
-  <a href="https://www.hackerrank.com/profile/singhabhijeet002" rel="nofollow noreferrer">
-    <img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank" alt="HackerRank" width="100" height="100">HackerRank
-  </a> &nbsp;
-  <a href="https://codeforces.com/profile/singhabhijeet0021" rel="nofollow noreferrer">
-    <img src="https://icons8.com/icon/jldAN67IAsrW/codeforces" alt="Codeforces" width="200" height="100">codeforces
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijeet0021&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Abhijeet0021?tab=followers">
+    <img src="https://img.shields.io/github/followers/Abhijeet0021?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<be>
-<be>
-<h3 align="left">My Tech Stack:</h3>
+---
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+## 👨‍💻 About Me
 
+I'm a 4th-year student pursuing a dual degree in **Computer Science and Engineering at JIIT Noida**. I love building things for the web and solving hard problems through **competitive programming**. My core languages are **Python, C++, and C**, and I'm continuously leveling up across the full web stack.
 
-### 🚀 What I'm Working On
-Right now, I'm focused on:
-- [[True Life Foundation website] My own personalized project that I am developing since last sem of my college]
-- more projects coming further...
+- 🔭 Currently building the **True Life Foundation** website (a personal project I've been developing since last semester)
+- 🌱 Sharpening my skills in **DSA, React, and Machine Learning**
+- 💬 Happy to chat about **competitive programming, web dev, or anything CS**
+- 🏏 Fun fact: I play cricket
 
-### 🌱 What I'm Learning
-I'm currently learning:
+---
 
-- 🚀 [C++/DSA]: Advanced+Algorithm
-- 🌐 [Web Dev]: HTML(Advanced),CSS(Advanced),JS(Basic),Bootstrap(Basic),React(Basic),Node.js(Basic),Express.js(Basic)
-- 🐍[Python]: Intermediate 
-- 🤖[Machine Learning]: Basic
-- 📊[Data Science]:Intermediate
+## 🏆 Competitive Programming
 
-### 🤝 Let's Connect!
-Feel free to reach out to me for:
-
-- 🤝 Collaboration opportunities
-- 🗣 Discussing [Competitive Programming Questions]
-- ❓ Any questions or advice
-
-### 📫 How to Reach Me
-You can connect with me via:
 <p>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-<br>
-  <a href="https://www.linkedin.com/in/abhijeet-kumar-singh-957117269/" rel="nofollow noreferrer">
-    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" alt="linkedin" width="100" height="100"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/Abhijeet0021" rel="nofollow noreferrer">
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="github" width="100" height="100"> Github
+  <a href="https://leetcode.com/u/Abhijeetkumarsingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-   <a href="mailto:singhabhijeet0021@gmail.com" rel="nofollow noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" width="180" height="100"> Gmail
+  <a href="https://www.hackerrank.com/profile/singhabhijeet002" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/singhabhijeet0021" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
-  
+---
 
+## 🛠️ Tech Stack
 
-### 📊 My GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijeet0021&show_icons=true&locale=en" alt="Abhijeet0021" /></p>
+**Languages**
 
-### 🏆 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet0021&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet0021&" alt="Abhijeet0021" /></p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎉 Fun Facts About Me
--  I play the cricket
-- 
-### 🙏 Thanks for Visiting!
-Thanks for stopping by! Please feel free to explore my repositories and don't hesitate to connect with me. Let's build amazing things together! 😊
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**ML / Data & Tools**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijeet0021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet0021&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet0021&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-singh-957117269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Abhijeet0021" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:singhabhijeet0021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting! Feel free to explore my repositories — let's build amazing things together. 😊</i></p>
