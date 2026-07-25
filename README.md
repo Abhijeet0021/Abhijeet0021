@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar Singh</h1>
-<h3 align="center">4th-year Dual-Degree CSE Student @ JIIT Noida · Competitive Programmer · Web Developer</h3>
+<h3 align="center">5th-year Dual-Degree CSE Student @ JIIT Noida · Competitive Programmer · Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Web+Developer;Lifelong+Learner;Python+%7C+C%2B%2B+%7C+JavaScript" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 4th-year student pursuing a dual degree in **Computer Science and Engineering at JIIT Noida**. I love building things for the web and solving hard problems through **competitive programming**. My core languages are **Python, C++, and C**, and I'm continuously leveling up across the full web stack.
+I'm a 5th-year student pursuing a dual degree in **Computer Science and Engineering at JIIT Noida**. I love building things for the web and solving hard problems through **competitive programming**. My core languages are **Python, C++, and C**, and I'm continuously leveling up across the full web stack.
 
 - 🔭 Currently building the **True Life Foundation** website (a personal project I've been developing since last semester)
 - 🌱 Sharpening my skills in **DSA, React, and Machine Learning**
